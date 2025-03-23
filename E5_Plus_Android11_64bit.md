@@ -9,6 +9,10 @@ https://www.reddit.com/r/SBCGaming/comments/1hg5w9e/i_just_got_my_gamemt_e5_plus
 - GameMTオフィシャルサイト  
 http://gamemt.net/index.php/2024/11/11/e6-e5-plus-%E5%AE%89%E5%8D%93linux%E7%B3%BB%E7%BB%9F%E5%88%B7%E6%9C%BA%E6%95%99%E7%A8%8B/
 
+# はじめに
+この作業に失敗すると文鎮化する可能性があるため、自己責任にてお願いいたします。  
+また、念の為上記リンク先を参照してこの手順に問題がないことも各自で確認した上で作業をお願いします。  
+
 # 手順
 1. ダウンロードURLから下記3つのファイルをダウンロードする  
   [ダウンロードURL](https://drive.google.com/drive/folders/1fhtvCX77iy6DeuCIb02hqX1nA0DNsPEx)  
