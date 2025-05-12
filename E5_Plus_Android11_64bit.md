@@ -29,6 +29,7 @@ http://gamemt.net/index.php/2024/11/11/e6-e5-plus-%E5%AE%89%E5%8D%93linux%E7%B3%
     - PCによっては手順7の後にUSBケーブルを接続する必要があるかもしれません
  7. `rk3566_mt_e5p_gms_wifi_android64_tf_2401021`ファイルを解凍して`rk3566_mt_e5p_gms_wifi_android64_tf_2401021.img`ファイルができていることを確認しておく
  8. `FactoryTool_v1.81(1).rar`を解凍して`FactoryTool.exe`を実行する
+    - `FactoryTool.exe`実行時にエラーが表示される場合は、`FactoryTool`フォルダをCドライブの直下に移動させてから`FactoryTool.exe`を実行してください
  9. 画面左上の`Firmware`をクリックして`rk3566_mt_e5p_gms_wifi_android64_tf_2401021.img`ファイルを指定する
  10. 画面左上の`Run`ボタンを押すとAndroid11 64bitがE5 Plusに書き込まれ始める
  11. 画面右側に緑色のランプで`Success`と表示されたら画面左上の`Stop`ボタンを押して、FactoryToolプログラムを終了させる
