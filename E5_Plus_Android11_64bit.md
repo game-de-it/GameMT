@@ -14,17 +14,18 @@ http://gamemt.net/index.php/2024/11/11/e6-e5-plus-%E5%AE%89%E5%8D%93linux%E7%B3%
 また、念の為上記リンク先を参照してこの手順に問題がないことも各自で確認した上で作業をお願いします。  
 
 # 手順
-1. ダウンロードURLから下記3つのファイルをダウンロードする  
+1. WindowsPCを利用してダウンロードURLから下記3つのファイルをダウンロードする  
   [ダウンロードURL](https://drive.google.com/drive/folders/1fhtvCX77iy6DeuCIb02hqX1nA0DNsPEx)  
     - DriverAssitant_v5.1.1(1).rar
     - FactoryTool_v1.81(1).rar
     - rk3566_mt_e5p_gms_wifi_android64_tf_2401021
 
- 2. `DriverAssitant_v5.1.1(1).rar`を解凍したら`DriverInstall.exe`を実行してドライバーをインストールする
+ 2. `DriverAssitant_v5.1.1(1).rar`を解凍したら`DriverInstall.exe`を実行してドライバーをインストールしてWindowsを再起動します
  3. E5 plusの電源をOFFにする
  4. 付属のUSBケーブルでPCとE5 plusのOTGポートを接続する
  5. E5 plusの電源ボタンと音量＋ボタンを同時に押し続ける
-    - windowsから「ポロン」という音がしてE5 Plusが認識されるはずで、E5 plusの画面は真っ黒だった気がします
+    - windowsから「ポロン」という音がしてE5 Plusが認識されるはずで、E5 plusの画面は真っ黒になります
+    - 認識されない場合はPC側のUSBポートを変更してみてください
     - PCによっては手順7の後にUSBケーブルを接続する必要があるかもしれません
  7. `rk3566_mt_e5p_gms_wifi_android64_tf_2401021`ファイルを解凍して`rk3566_mt_e5p_gms_wifi_android64_tf_2401021.img`ファイルができていることを確認しておく
  8. `FactoryTool_v1.81(1).rar`を解凍して`FactoryTool.exe`を実行する
